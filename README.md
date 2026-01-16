@@ -1,3 +1,12 @@
-# sql-internship-task
-Internship SQL task using MySQL Workbench
+# SQL-internship-task
+
+SQL developer internship tasks and assignements
+
+#tools - 
+- MySQL 
+- MySQL Workbench
+  
+
+
+
 
