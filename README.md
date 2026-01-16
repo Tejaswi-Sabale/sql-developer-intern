@@ -1,2 +1,3 @@
-# sql-developer-intern
-assignments and tasks perfomed during sql developer internship
+# sql-internship-task
+Internship SQL task using MySQL Workbench
+
