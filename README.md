@@ -9,7 +9,7 @@ SQL developer internship tasks and assignements
 - MySQL Workbench
 
 # What I learnt -
-- setting up environment for sql
+- setting up an environment for sql
 - Database creation
 - Table creation
 - Insert query
