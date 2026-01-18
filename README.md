@@ -1,6 +1,6 @@
 # SQL-internship-task
  
-SQL developer internship tasks and assignements
+SQL developer internship tasks 
 
 #TASK 01 
 
