@@ -2,7 +2,7 @@
  
 SQL developer internship tasks and assignements
 
-* TASK 01 *
+#TASK 01 
 
 #tools - 
 - MySQL 
