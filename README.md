@@ -18,7 +18,7 @@ SQL developer internship tasks
 -Redesign table (drop , create)
 -Datatypes 
 -Constraints
--Alter query 
+-Alter , Update query 
 
 
 
